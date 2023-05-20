@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git add .
+git commit -m "updated tailwind design"
+git push -u origin main
